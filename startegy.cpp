@@ -6,7 +6,7 @@ Defination : the strategy pattern (also known as the policy pattern) is a behavi
              instructions as to which in a family of algorithms to use.
 **********************************/
 
-
+/* In this code their is implemantation of different differt features of different different Duck*/
 #include<iostream>
 
 using namespace std;
